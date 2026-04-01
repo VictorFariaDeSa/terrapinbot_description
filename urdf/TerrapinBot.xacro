@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<robot name="MineMapper" xmlns:xacro="http://www.ros.org.wiki/xacro">
+<robot name="TerrapinBot" xmlns:xacro="http://www.ros.org.wiki/xacro">
     <xacro:arg name="robot_ns_arg" default="robot_default"/> 
     
     <xacro:property name="robot_ns" value="$(arg robot_ns_arg)"/>
